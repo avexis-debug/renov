@@ -1,0 +1,8 @@
+
+{
+  "name": "NOÏA RÉNOVATION - Expert Rénovation à Charleroi",
+  "description": "Entreprise de rénovation haut de gamme à Charleroi. Transformation d'intérieurs, maçonnerie et finitions de luxe dans la région du Hainaut.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
