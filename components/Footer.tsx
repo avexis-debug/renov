@@ -86,13 +86,13 @@ const Footer: React.FC = () => {
           <div className="flex flex-col gap-6">
             <h3 className="text-sm font-bold tracking-widest text-gray-800 uppercase serif">Notre Zone</h3>
             <div className="w-full h-48 rounded-xl overflow-hidden shadow-sm border border-gray-100 bg-gray-50">
-              <iframe 
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m13!1m3!1d40660.85237882103!2d4.402636611593979!3d50.41219662369792!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c225e365020473%3A0xc6338b9758f1f544!2sCharleroi!5e0!3m2!1sfr!2sbe!4v1715854890000!5m2!1sfr!2sbe" 
-                width="100%" 
-                height="100%" 
-                style={{ border: 0 }} 
-                allowFullScreen={false} 
-                loading="lazy" 
+              <iframe
+                src="https://maps.google.com/maps?q=Boulevard+Joseph+Tirou,+6000+Charleroi,+Belgique&t=&z=14&ie=UTF8&iwloc=&output=embed"
+                width="100%"
+                height="100%"
+                style={{ border: 0 }}
+                allowFullScreen={false}
+                loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
                 title="Carte Charleroi Noia Rénovation"
               ></iframe>
